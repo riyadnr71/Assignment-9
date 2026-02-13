@@ -1,0 +1,111 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "data:image/jpeg;base64,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",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Peace Lily",
+    "category": "Flowering",
+    "price": 22,
+    "rating": 4.7,
+    "availableStock": 8,
+    "careLevel": "Medium",
+    "description": "Elegant plant with white blooms and excellent air-purifying ability.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ERrinnBDZiZ3IueHRsi7fQESzeXb4KI4yA&s",
+    "providerName": "GreenLeaf Co"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Aloe Vera",
+    "category": "Medicinal",
+    "price": 15,
+    "rating": 4.6,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "Succulent plant known for its healing gel and low maintenance.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_AeNvYUWwNpr76vm11_TC_KTLB8wN1xvBA&s",
+    "providerName": "NatureNest"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Spider Plant",
+    "category": "Air Purifier",
+    "price": 16,
+    "rating": 4.5,
+    "availableStock": 14,
+    "careLevel": "Easy",
+    "description": "Fast-growing plant that removes toxins and looks great in hanging pots.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUGrrR9bbYShBExpc498bL21hyZp27T8Sf8Q&s",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 5,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 25,
+    "rating": 4.9,
+    "availableStock": 6,
+    "careLevel": "Easy",
+    "description": "Extremely low-maintenance plant that tolerates low light and drought.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiVEveo-4kwhHQtbHzloB2m4CFNgPpT_uBg&s",
+    "providerName": "GreenLeaf Co"
+  },
+  {
+    "plantId": 6,
+    "plantName": "Rubber Plant",
+    "category": "Decorative",
+    "price": 28,
+    "rating": 4.6,
+    "availableStock": 7,
+    "careLevel": "Medium",
+    "description": "Bold, glossy leaves that make a strong statement in any room.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP506y16Y1wRxO7poVIQ4OyEg8_PVsVeZUQ&s",
+    "providerName": "LeafyHome"
+  },
+  {
+    "plantId": 7,
+    "plantName": "Monstera",
+    "category": "Decorative",
+    "price": 35,
+    "rating": 4.8,
+    "availableStock": 5,
+    "careLevel": "Medium",
+    "description": "Trendy plant with large split leaves, perfect for modern interiors.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP506y16Y1wRxO7poVIQ4OyEg8_PVsVeZUQ&s",
+    "providerName": "LeafyHome"
+  },
+  {
+    "plantId": 8,
+    "plantName": "Pothos",
+    "category": "Hanging",
+    "price": 14,
+    "rating": 4.7,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "Trailing plant that grows quickly and adapts to various light conditions.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP506y16Y1wRxO7poVIQ4OyEg8_PVsVeZUQ&s",
+    "providerName": "NatureNest"
+  },
+  {
+    "plantId": 9,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Decorative",
+    "price": 40,
+    "rating": 4.4,
+    "availableStock": 4,
+    "careLevel": "Hard",
+    "description": "Tall indoor tree with large violin-shaped leaves.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP506y16Y1wRxO7poVIQ4OyEg8_PVsVeZUQ&s",
+    "providerName": "UrbanGreen Studio"
+  }
+  
+]
