@@ -51,11 +51,12 @@ export default function ForgotPassword() {
         >
           Reset Password
         </button>
-        
+
         <p
           onClick={() => navigate("/login")}
           className="text-center text-sm text-green-600 mt-4 cursor-pointer hover:underline"
         >
+          
           Back to Login
         </p>
       </div>
